@@ -66,5 +66,10 @@ java to run server/client programs
 
 *SERVER*
 
+![Image](https://github.com/user-attachments/assets/9a9ae1f6-37b1-46a9-9bb9-070ce23b7f7c)
+
+
 
 *CLIENT*
+
+![Image](https://github.com/user-attachments/assets/a145fed7-c90b-4f9f-bcca-8d48b872d9b9)
